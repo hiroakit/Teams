@@ -1,3 +1,3 @@
-struct Teams {
-    var text = "Hello, World!"
+public struct Teams {
+   public var text = "Hello, World!"
 }
