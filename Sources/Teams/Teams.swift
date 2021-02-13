@@ -1,11 +1,11 @@
 public struct Teams {
     public var text = "Hello, World!"
     
-    init(text: String) {
+    public init(text: String) {
         self.text = text
     }
     
-    public func empty() -> Teams {
+    public static func empty() -> Teams {
         return Teams(text: "")
     }
 }
