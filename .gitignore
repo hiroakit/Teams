@@ -66,6 +66,9 @@ playground.xcworkspace
 
 Carthage/Build/
 
+# Swift Package Manager
+.swiftpm
+
 # Accio dependency management
 Dependencies/
 .accio/
